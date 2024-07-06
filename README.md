@@ -7,12 +7,7 @@ This repository contains the tutorial for using the Interactive Brokers (IB) Tra
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
-4. [Connecting to TWS](#connecting-to-tws)
-5. [Retrieving Market Data](#retrieving-market-data)
-6. [Placing Orders](#placing-orders)
-7. [Handling Errors](#handling-errors)
-8. [Advanced Topics](#advanced-topics)
-9. [Resources](#resources)
+
 
 ## Introduction
 
